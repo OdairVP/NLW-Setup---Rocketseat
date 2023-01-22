@@ -18,7 +18,7 @@ NLW foi um evento exclusivo e gratuito, promovido pela Rocketseat na data de 16/
 <br>
 
 <p align="center">
-  <img alt="projeto Habtis" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Habitis" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a monitorar e na mudança de habitos diários, como alimentação, esportes, consumo de agua, entre outras coisa que podemos agregar.
+
+- [visite o projeto online](https://odairvp.github.io/NLW-Setup---Rocketseat/)
 
 ## 🔖 Layout
 
