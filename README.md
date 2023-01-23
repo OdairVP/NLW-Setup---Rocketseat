@@ -18,8 +18,7 @@ NLW foi um evento exclusivo e gratuito, promovido pela Rocketseat na data de 16/
 <br>
 
 <p align="center">
-  <img alt="projeto Habitis" src="./github/preview.jpg" width="100%">
-  <!-- adicionei a barra antes do github -->
+  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
