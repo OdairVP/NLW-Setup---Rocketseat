@@ -17,6 +17,11 @@ header {
   justify-content: space-between;
 
   padding: 48px;
+
+  /*fixando o heard na pagina*/
+  position: fixed;
+  width: 100%;
+  background-color: #09090a;
 }
 
 button {
@@ -35,10 +40,13 @@ button {
   line-height: 125%;
 }
 
-form {
-  display: flex; /*config a cx dos desenhos*/
+#form-habits {
+  /*config a cx dos desenhos*/
+  display: flex;
 
-  padding: 0 48px; /*config a cx dos desenhos dando espaço de borda na cx*/
+  /*config a cx dos desenhos dando espaço de borda na cx*/
+  padding: 182px 48px 48px;
+  width: fit-content;
 }
 
 /*config a cx dos desenhos*/
@@ -104,4 +112,10 @@ input {
 input:checked {
   background: #8b5cf6;
   border: 2px solidcolor#a78bfa;
+}
+
+@media (max-width: 570px) {
+  button div {
+    display: none;
+  }
 }
