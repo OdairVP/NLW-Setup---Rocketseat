@@ -4,7 +4,9 @@ const nlwSetup = new NLWSetup(form)
 const data = {
   run: ["01-01", "01-02", "01-04", "01-05", "01-06", "01-07"],
   water: ["01-02"],
+  food: ["01-01", "01-02", "01-05"],
   sleep: ["01-02"],
+  academy: ["01-03", "01-05", "01-06", "01-07"],
 }
 
 nlwSetup.setData(data)
